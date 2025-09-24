@@ -1,0 +1,11 @@
+/**
+ * Exercício 04 – Função de subtração
+ * Criar uma função que receba dois números e retorne a subtração.
+ */
+
+function subtrair(a: number, b: number): number {
+  return a - b;
+}
+
+console.log(`Resultado: ${subtrair(20, 8)}`);
+
