@@ -10,3 +10,4 @@ var precoFinal1 = camiseta1 - valorDesconto1;
 console.log("Preço original: R$", camiseta1);
 console.log("Desconto: R$", valorDesconto1);
 console.log("Preço final com desconto: R$", precoFinal1);
+
